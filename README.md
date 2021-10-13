@@ -13,7 +13,8 @@ A command-line application that dynamically generates a professional README mark
 
 ![A screenshot of the application](./assets/screenshot.PNG)
 
-## Link to demo: 
+## Link to demo:
+https://youtu.be/jXtBWdTv9Pw
 
 ## Credits
 Sue Lee
