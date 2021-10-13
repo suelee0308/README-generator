@@ -1,13 +1,13 @@
-# 
+# README generator
   ## Description
-  sdf
+  A high-quality readme generator generated from the terminal
 
   ## License:
-  ![License: Eclipse Public License 2.0](https://img.shields.io/badge/License-Eclipse%20Public%20License%202.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
   https://opensource.org/licenses/MIT
 
-  This repo is licensed under the Eclipse Public License 2.0 license.
+  This repo is licensed under the MIT license.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -17,19 +17,19 @@
   * [Questions](#questions)
 
   ## Installation:
-  sldkfjei
+  install npm inquirer
 
   ## Usage:
-  soidfj
+  personal readme's
 
   ## Contributing
-  undefined
+  contact me through github or by email
 
   ## Tests
-      slkd
+      npm test
 
   ## Questions:
   Please direct any questions you have about this repo to: 
-  - <https://github.com/woieurowie9>
-  - <039rwlkdfls@gmalsdkf>
+  - <https://github.com/suelee0308>
+  - <sue.lee0308@gmail.com>
 
