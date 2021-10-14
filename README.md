@@ -11,7 +11,7 @@ The generator runs in the terminal and will be invoked by using the following co
 ## Usage 
 A command-line application that dynamically generates a professional README markdown file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
-![A screenshot of the application](./assets/screenshot1.PNG)
+![A screenshot of the application](assets/screenshot1.png)
 
 ## Link to demo:
 https://youtu.be/jXtBWdTv9Pw
